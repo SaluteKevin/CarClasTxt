@@ -8,10 +8,12 @@
 - [anaconda](https://www.anaconda.com/download)
 
 ## items
+- test: folder that contain images with seprated folder inside. 4wheels, 6wheels, and 6wheels+ for test the model.
 - CarClassification.ipynb: notebook file that contain building model code for this project.
-- resource: folder for put the image dataset here separate by wheels type 4, 6, and 6+ in each folders.
-- sample resorce: the link that you can download the resource dataset files.
-- test folder: folder that contain images with seprated folder inside. 4wheels, 6wheels, and 6wheels+ for test the model.
+- README.md: this markdown.
+- sample resorce: contain the link that you can download the resource dataset files.
+- trained model: contain the link that you can download the trained model.
+- 
 
 ## module & library
 *Please set environment and install these modules before run the building model*
@@ -29,8 +31,9 @@
 ## pre-trained model
 - RestNet50 model
 
-## trained model from this repository
+## link
 - [Trained model](https://drive.google.com/file/d/1ILfmky5aKzWxIxKb3HwRul0mvi1-1K-t/view?usp=drive_link)
+- [Resorce](https://drive.google.com/file/d/14MejCuwe8cwr9ZEtuUg2t-uylZnPpN5Y/view?usp=sharing)
 ---
 # Instruction
 
