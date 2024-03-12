@@ -29,6 +29,8 @@
 ## pre-trained model
 - RestNet50 model
 
+## trained model from this repository
+- [Trained model](https://drive.google.com/file/d/1ILfmky5aKzWxIxKb3HwRul0mvi1-1K-t/view?usp=drive_link)
 ---
 # Instruction
 
@@ -42,7 +44,7 @@
 - load and preprocess the dataset. with 3 categories 4 wheels, 6 wheels, and 6 wheels+.
 - make imageDataGenerator for build model.
 - make label of output of images in list. 0 as 4 wheels, 1 as 6wheels, and 2 as 6wheels+.
-- shuffle and split data for train and validation test. with default of the code we using 70% for train and 30% for vaidation test.
+- shuffle and split data for train and validation test. with default of the code we using 70% for train and 30% for validation test.
 - apply the datagen into the dataset
 - import pre-trained RestNet50 model to make transfered learning and build the model after load the pre-trained model.
 - train the model 
