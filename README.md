@@ -5,7 +5,7 @@
 - Tanapat Bumrungthaiworakul 6410451016
 ---
 ## application
-- anaconda: jupyter notebook
+- [anaconda](https://www.anaconda.com/download)
 
 ## items
 - CarClassification.ipynb: notebook file that contain building model code for this project
@@ -15,14 +15,15 @@
 ## module & library
 *Please set environment and install these modules before run the building model*
 *If the module not working, please try reinstall the modules. If still not working, try change the package manager between pip or conda to install modules*
-- tensorflow
 - os
-- cv2
-- h5py
-- numpy
-- keras
-- sklearn
-- matplotlib
+- jupyter notebook: ```pip install notebook```
+- tensorflow: ```pip install tensorflow```
+- cv2: ```pip install opencv-python```
+- h5py: ```pip install h5py```
+- numpy: ```pip install numpy```
+- keras: ```pip install keras```
+- sklearn: ```pip install -U scikit-learn```
+- matplotlib: ```pip install matplotlib```
 
 ## pre-trained model
 - RestNet50 model
@@ -31,7 +32,7 @@
 # Instruction
 
 ## setup instruction
-- First prepare resource of image dataset. You can download from the sample resource link, and put them in resource folder for each type.
+- First prepare resource of image dataset. You can download from the sample resource link(or this [link](https://drive.google.com/file/d/14MejCuwe8cwr9ZEtuUg2t-uylZnPpN5Y/view?usp=sharing)), and put them in resource folder for each type.
 - Open CarClassification.ipynb.
 - now you can start the building code.
 
