@@ -32,7 +32,7 @@
 # Instruction
 
 ## setup instruction
-- First prepare resource of image dataset. You can download from the sample resource link(or this [link](https://drive.google.com/file/d/14MejCuwe8cwr9ZEtuUg2t-uylZnPpN5Y/view?usp=sharing)), and put them in resource folder for each type.
+- First prepare resource of image dataset. You can download from the sample resource link(or this [link](https://drive.google.com/file/d/14MejCuwe8cwr9ZEtuUg2t-uylZnPpN5Y/view?usp=sharing)), and make "resource" directory and put them in the folder for each folder inside "4wheels, 6wheels, 6wheels+".
 - Open CarClassification.ipynb.
 - now you can start the building code.
 
