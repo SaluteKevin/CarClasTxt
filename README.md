@@ -11,9 +11,10 @@
 - test: folder that contain images with seprated folder inside. 4wheels, 6wheels, and 6wheels+ for test the model.
 - CarClassification.ipynb: notebook file that contain building model code for this project.
 - README.md: this markdown.
+- paperTH: the paper of this repository
+- presentation
 - sample resorce: contain the link that you can download the resource dataset files.
 - trained model: contain the link that you can download the trained model.
-- 
 
 ## module & library
 *Please set environment and install these modules before run the building model*
