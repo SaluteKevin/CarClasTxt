@@ -8,9 +8,10 @@
 - [anaconda](https://www.anaconda.com/download)
 
 ## items
-- CarClassification.ipynb: notebook file that contain building model code for this project
-- resource: folder for put the image dataset here separate by wheels type 4, 6, and 6+ in each folders
-- sample resorce: the link that you can download the resource dataset files
+- CarClassification.ipynb: notebook file that contain building model code for this project.
+- resource: folder for put the image dataset here separate by wheels type 4, 6, and 6+ in each folders.
+- sample resorce: the link that you can download the resource dataset files.
+- test folder: folder that contain images with seprated folder inside. 4wheels, 6wheels, and 6wheels+ for test the model.
 
 ## module & library
 *Please set environment and install these modules before run the building model*
